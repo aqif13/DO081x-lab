@@ -1,4 +1,4 @@
-FROM rhel7.3
+FROM centos:7
 
 MAINTAINER Your Name <youremail>
 LABEL description="A basic Apache HTTP server container on RHEL 7"
